@@ -7,4 +7,6 @@ function clickAlert() {
 
 input.addEventListener('click', clickAlert);
 }
+// document.querySelector('#button').addEventListener
+// ('click', () => alert('I was clicked'))
 addingEventListener();
